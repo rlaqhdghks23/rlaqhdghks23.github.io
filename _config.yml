@@ -4,8 +4,8 @@ title: "내 집 인테리어"
 description: "인테리어 상품들을 추천하는 블로그입니다"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /,
-url:"https://rlaqhdghks23.github.io/"
+baseurl: "/",
+url:"https://rlaqhdghks23.github.io/",
 google_analytics: 'G-62T9C9W3P5'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
